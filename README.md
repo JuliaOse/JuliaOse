@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there!👋 </h1>
 <div>
-<img width = "45%" align="right" alt="PIC" height="250px" src="gifintro.gif" />
+<img width = "50%" align="right" alt="PIC" height="250px" src="gifintro.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -13,7 +13,7 @@
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
 </div>
-
+<br/>
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
