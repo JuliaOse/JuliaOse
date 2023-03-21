@@ -1,9 +1,9 @@
-<h1 align="center">Hey there!👋 </h1>
+##<h1 align="center">Hey there!👋 </h1>
 <div>
 <h1 align="center">
   <img src="gifintro.gif" />
 </h1>
-<div align="left"> 
+##<div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
