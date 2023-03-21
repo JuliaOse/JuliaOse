@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there!👋 </h1>
 <div>
-<img src="gifintro.gif" height = "200px" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="gifintro.gif" height = "200px" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
