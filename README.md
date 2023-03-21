@@ -4,7 +4,7 @@
 <div>
 <img width = "50%" align="right" alt="PIC" height="250px" src="gifintro.gif" />
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 👩🏽‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Computer Science.
