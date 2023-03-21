@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-  <img src="gifintro.gif" />
+  <img src="gifintro.gif" height = "500px" />
 </h1>
 <h1 align="center">Hey there!👋 </h1>
 <div>
