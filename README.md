@@ -1,10 +1,8 @@
 <div>
-<h1 align="center">
-  <img src="gifintro.gif" height = "200px" />
-</h1>
+
 <h1 align="center">Hey there!👋 </h1>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47mkzez68rge70w1a8gr3uclyj0ui8vc8vvkhgci4n&rid=giphy.gif&ct=g"/>
+<img src="gifintro.gif" height = "200px" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
